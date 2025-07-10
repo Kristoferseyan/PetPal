@@ -1,0 +1,5 @@
+{
+    "git.ignoreLimitWarning": true,
+    "FSharp.suggestGitignore": false,
+    "cmake.sourceDirectory": "/Users/seannuevo/capstone/petpal-private/linux"
+}
