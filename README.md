@@ -6,6 +6,39 @@ A comprehensive veterinary clinic management mobile application built with Flutt
 
 PetPal is a mobile application that digitizes the entire pet care ecosystem. It serves as a bridge between pet owners and veterinary clinics, providing tools for appointment management, medical record keeping, communication, and more.
 
+## 📱 App Screenshots
+
+### Landing Page
+<div align="center">
+  <img src="docs/landing-page.png" alt="Landing Page" width="250">
+</div>
+
+### Pet Owner Features
+<div align="center">
+  <img src="docs/user/user-dashboard.png" alt="Pet Owner Dashboard" width="250">
+  <img src="docs/user/user-pet-management.png" alt="Pet Management" width="250">
+  <img src="docs/user/user-pet-qr-sample.png" alt="Pet QR Code" width="250">
+</div>
+
+<div align="center">
+  <img src="docs/user/user-appointment-page.png" alt="Appointment Booking" width="250">
+  <img src="docs/user/user-set-new-appointment.png" alt="New Appointment" width="250">
+  <img src="docs/user/user-appointment-page-completed-tab.png" alt="Completed Appointments" width="250">
+</div>
+
+### Veterinary Features
+<div align="center">
+  <img src="docs/Vet/vet-dashboard.png" alt="Veterinary Dashboard" width="250">
+  <img src="docs/Vet/vet-appointments.png" alt="Vet Appointments" width="250">
+  <img src="docs/Vet/vet-health-records.png" alt="Health Records" width="250">
+</div>
+
+<div align="center">
+  <img src="docs/Vet/vet-medical-records.png" alt="Medical Records" width="250">
+  <img src="docs/Vet/vet-medication-management.png" alt="Medication Management" width="250">
+  <img src="docs/Vet/vet-add-new-medication.png" alt="Add New Medication" width="250">
+</div>
+
 ## ✨ Key Features
 
 ### 🏠 For Pet Owners
